@@ -187,6 +187,69 @@
 }
 /*Recall main final*/
 
+/*Contacto main inicio*/
+
+
+.formulcon {
+    width: 60rem;
+    padding: 2rem;
+}
+
+
+
+
+
+
+
+
+.image-row {
+    margin-bottom: 2rem;
+  }
+  
+  .image-row h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image {
+    margin-right: 12rem;
+    text-align: center;
+  }
+  
+  .image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 1px;
+    border: 1px solid #000;
+  }
+  
+  .image p {
+    margin-top: 0.5rem;
+  }
+  
+
+
+.textojob {
+    padding-top: 16rem;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+/*Contacto main final*/
+
 /*footer */
 
 
