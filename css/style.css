@@ -1,0 +1,298 @@
+header {
+  background-color: #005BA2;
+}
+header section {
+  background-color: #005BA2;
+  display: flex;
+  justify-content: space-around;
+}
+
+footer {
+  background-color: #005BA2;
+  padding: 10px;
+  height: 72px;
+}
+footer div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*# sourceMappingURL=style.css.map */
+ 
+/*HEADER INICIO*/
+
+.encabezado {
+    background-color: #005BA2;
+}
+
+.cabezilla {
+    background-color: #005BA2;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.directory {
+    align-items: end;
+}
+
+
+.logoindex {
+    height: 200px;
+    background-color: #005BA2;
+
+}
+
+.loguito {
+    height: 200px;
+    width: 70%;
+}
+
+.directory {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: end;
+    
+}
+
+.indice {
+ /*   display: flex;*/
+    justify-content: space-around;
+    align-items: end;
+    color: antiquewhite;
+    text-decoration: none;
+    text-align: end;
+    border-right: 20px;
+}
+/*HEADER FINAL*/
+
+/* MAIN  index INICIO */
+
+.card-img-top{
+    height: 15%;
+}
+
+
+.noticias{
+    width: 17rem;
+    height: 23rem;
+    border: solid black 1px;
+    border-radius: 2%;
+    
+}
+
+.notimg{
+    width: 100%;
+    height: 60%;
+    border-radius: 2%;
+}
+
+.linkazo{
+    text-decoration: none;
+    
+}
+
+.description {
+    padding: 2%;
+    height: 30%;
+}
+
+.cardes {
+    color: blue;
+}
+
+/*MAIN indexFINAL*/
+
+/*main empresa inicio*/
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.video {
+    width: 85%;
+    height: 80%;
+    padding: 20px;
+  }
+
+.map {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    width: 100%;
+    height: 450px;
+     
+  }
+/*main empresa final*/
+
+
+/*Farmacia main inicio*/
+
+.contact-form {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  
+  form {
+    width: 60%;
+    padding-bottom: 20px;
+  }
+  
+  form h2 {
+    margin-bottom: 20px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #005BA2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .image-container {
+    width: 35%;
+  }
+  
+  .image-container img {
+    width: 100%;
+    padding-top: 12px;
+  }
+  
+  .button-container {
+    margin-top: 10px;
+    
+  }
+  
+  .button-container button {
+    align-items: center;
+    margin-right: 10px;
+    padding: 8px 16px 0px 20px;
+    background-color: #005BA2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+/*Farmacia main final*/
+
+/*Recall main inicio*/
+
+.med {
+    color: #005BA2;
+}
+
+.lis {
+    color: #005BA2;
+}
+
+.image {
+    padding: 4rem;
+}
+/*Recall main final*/
+
+/*Contacto main inicio*/
+
+
+.formulcon {
+    width: 60rem;
+    padding: 2rem;
+}
+
+
+
+
+
+
+
+
+.image-row {
+    margin-bottom: 2rem;
+  }
+  
+  .image-row h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image {
+    margin-right: 12rem;
+    text-align: center;
+  }
+  
+  .image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 1px;
+    border: 1px solid #000;
+  }
+  
+  .image p {
+    margin-top: 0.5rem;
+  }
+  
+
+
+.textojob {
+    padding-top: 16rem;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+/*Contacto main final*/
+
+/*footer */
+
+
+.piecito{
+    background-color: #005BA2;
+    padding: 10px;
+    height: 72px;
+}
+.redesfot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.textiño{
+    margin: 0;
+    color: white;
+}
+.logofot{
+    display: flex;
+}
+.logo1{
+    margin-right: 10px;
+    height: 65px;
+}
